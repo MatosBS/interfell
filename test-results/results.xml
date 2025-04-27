@@ -1,0 +1,10 @@
+<testsuites id="" name="" tests="3" failures="0" skipped="0" errors="0" time="54.53252">
+<testsuite name="practice_form.spec.ts" timestamp="2025-04-27T20:29:45.890Z" hostname="Google Chrome" tests="3" failures="0" skipped="0" time="119.03" errors="0">
+<testcase name="Practice Form › Should validate screen completeness" classname="practice_form.spec.ts" time="52.841">
+</testcase>
+<testcase name="Practice Form › Validate form fields › Should validate required fields" classname="practice_form.spec.ts" time="33.491">
+</testcase>
+<testcase name="Practice Form › Should complete form correctly and validate success message" classname="practice_form.spec.ts" time="32.698">
+</testcase>
+</testsuite>
+</testsuites>
